@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp"
+    >
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:scrollbars  =  "none">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="1"
+            android:layout_alignParentTop="true"
+            android:id="@+id/tbl_Main"
+            android:onClick="onClickTable">
+        </TableLayout>
+    </ScrollView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Scan"
+        android:id="@+id/btn_Scan"
+        android:layout_weight="0.35"
+        android:clickable="true"
+        android:background="#fd03aa"
+        android:textColor="#fdfafa"
+        android:textStyle="bold"
+        android:textSize="60dp"
+        android:layout_alignParentBottom="true"
+        />
+</RelativeLayout>
+
