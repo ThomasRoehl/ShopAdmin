@@ -1,2 +1,35 @@
 Alle TODOs fuer die naechste Besprechung bitte hier eintragen!
 Scrum Stories anders aufteilen!
+
+4.11.2015 - Roger:
+
+* Drei Farben (Schwarz, Rosa, Hellgrau)
+
+- LOGIN:
+-	Create Account erzeugt nur kein neuen View, sondern ändert login-view -> REGISTER
+-	Farben in rosa
+-	Registerbutton nach oben ziehen und nicht unter neuer Überschrift
+-	am unteren Rand fixierte Buttonleiste
+-	Menüleiste in oberer rechter Ecke platzieren
+
+- REGISTER
+-	CREATE Button nach links verschieben
+
+- MAIN
+-	onClickTabelle
+-	Überschrift Main-View einfügen
+-	Scanbutton über komplette Zeile
+
+- CAMERA
+-	View für normale Kameraansicht
+
+- EDIT
+-	Texte in englisch ändern
+-	Elemente:
+		- Shop
+		- Sum
+		- Category (Dropdown vorbelegt)
+		- Date (vorbelegt mit now())
+-	EDIT-Button kann weg. Felder werden duch onClick bearbeitbar
+
+- VIEW für Tabelle für Statistik-Filter
