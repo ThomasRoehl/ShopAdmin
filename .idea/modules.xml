@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyTessProject/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/MyTessProject/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDBApplication/app/src/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/MyDBApplication/app/src/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopAdminAndroid/ShopAdmin/app/src/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/ShopAdminAndroid/ShopAdmin/app/src/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTessProject/libraries/tess-two/build/generated/source/buildConfig/androidTest/androidTest3.iml" filepath="$PROJECT_DIR$/MyTessProject/libraries/tess-two/build/generated/source/buildConfig/androidTest/androidTest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTessProject/libraries/tess-two/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/MyTessProject/libraries/tess-two/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTessProject/libraries/tess-two/jni/com_googlecode_tesseract_android/src/com_googlecode_tesseract_android.iml" filepath="$PROJECT_DIR$/MyTessProject/libraries/tess-two/jni/com_googlecode_tesseract_android/src/com_googlecode_tesseract_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopAdminAndroid/ShopAdmin/app/src/main/main.iml" filepath="$PROJECT_DIR$/ShopAdminAndroid/ShopAdmin/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTessProject/app/src/main/main1.iml" filepath="$PROJECT_DIR$/MyTessProject/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDBApplication/app/src/main/main2.iml" filepath="$PROJECT_DIR$/MyDBApplication/app/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTessProject/libraries/tess-two/tess-two.iml" filepath="$PROJECT_DIR$/MyTessProject/libraries/tess-two/tess-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopAdminAndroid/ShopAdmin/app/src/test/test.iml" filepath="$PROJECT_DIR$/ShopAdminAndroid/ShopAdmin/app/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTessProject/app/src/test/test1.iml" filepath="$PROJECT_DIR$/MyTessProject/app/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDBApplication/app/src/test/test2.iml" filepath="$PROJECT_DIR$/MyDBApplication/app/src/test/test2.iml" />
+    </modules>
+  </component>
+</project>
