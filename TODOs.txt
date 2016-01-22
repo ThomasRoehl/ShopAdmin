@@ -1,2 +1,13 @@
 Alle TODOs fuer die naechste Besprechung bitte hier eintragen!
-Scrum Stories anders aufteilen!
+
+DESIGN AUFGABEN: 
+
+1.CREATE NEW ACCOUNT Button zu klein (zu kurz)
+2. ShopAdmin in Blau entweder löschen oder in rosa
+3. ROSA - #f97d7b
+3. "Enter a valid email" Fehlermeldung anders (anderer Stiel) as bei name and password
+4. Nach rescan Funktioniert save nicht
+5. Reposts (Wort) in weis machen
+6. SHOP OVERVIEW und CATEGORY OVERVIEW in rosa
+7. tabelle shop amount data hintergrund - rosa, grenzen in schwarz oder auch rosa
+
