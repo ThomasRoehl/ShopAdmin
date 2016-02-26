@@ -1,95 +1,19 @@
-Edeka ;Food; ;; ;;
-Lidl ;Food; ;; ;;
-Aldi;Food; ;; ;;
-Rewe ;Food; ;; ;;
-Kaufland ;Food; ;; ;;
-Netto-Marken-Discont;Food;;; ;; 
-real;Food;; ;; ;
-Penny ;Food; ;; ;;
-Media Markt ;Electronics; ;; ;;
-dm ;Cosmetics; ;; ;;
-Rossmann ;Cosmetics; ;; ;;
-Ikea ;Furniture; ;; ;;
-Saturn ;Electronics; ;; ;;
-Marktkauf ;Food; ;; ;;
-Obi ;Tools; ;; ;;
-Galeria Kaufhof ;Superstore; ;; ;;
-Norma ;Food; ;; ;;
-Intersport ;Sport; ;; ;;
-Euronics ;Electronics; ;; ;;
-Karstadt ;Superstore; ;; ;;
-Globus ;Food; ;; ;;
-expert ;Electronics; ;; ;;
-H&M ;Clothing; ;; ;;
-C&A ;Clothing; ;; ;;
-Müller ;Cosmetics; ;; ;;
-Bauhaus ;Tools; ;; ;;
-Kaiser's ;Food; ;; ;;
-Deichmann ;Shoes; ;; ;;
-Hornbach ;Tools; ;; ;;
-toom Baumarkt ;Tools; ;; ;;
-Sport 2000 ;Sport; ;; ;;
-hagebaumarkt ;Tools; ;; ;;
-Peek & Cloppenburg;Clothing;; ;; ;
-Höffner ;Furniture; ;; ;;
-KiK ;Clothing; ;; ;;
-Netto ;Food; ;; ;;
-Roller ;Furniture; ;; ;;
-famila;Food; ;; ;;
-Poco Domäne ;Tools; ;; ;;
-tegut… ;Food; ;; ;;
-Praktiker ;Tools; ;; ;;
-nahkauf ;Food; ;; ;;
-Hit ;Food; ;; ;;
-Fielmann ;Glasses; ;; ;;
-Douglas ;Cosmetics; ;; ;;
-Medimax ;Electronics; ;; ;;
-Segmüller ;Furniture; ;; ;;
-NP. Discount ;Food; ;; ;;
-Fressnapf ;Animals; ;; ;;
-EP (ElectronicPartner) ;Electronics; ;; ;;
-Globus Baumarkt ;Tools; ;; ;;
-Dänisches Bettenlager ;Furniture; ;; ;;
-Ernsting's family ;Baby; ;; ;;
-Takko Fashion ;Clothing; ;; ;;
-SB-Möbel Boss ;Furniture;; ;; ;
-V-Markt ;Food;; ;; ;
-Porta ;Furniture; ;; ;;
-New Yorker ;Clothing; ;; ;;
-Thalia ;Books; ;; ;;
-K+K ;Shoes; ;; ;;
-grün erleben ;Tools; ;; ;;
-Hellweg ;Tools; ;; ;;
-Pro Markt ;Electronics; ;; ;;
-Idee+Spiel ;Toys; ;; ;;
-Max Bahr ;Tools; ;; ;;
-Combi ;Food; ;; ;;
-Bellandris ;Toos; ;; ;;
-Tchibo ;Food; ;; ;;
-Vedes ;Toys; ;; ;;
-ZEG ;Bycicles; ;; ;;
-Thomas Philipps ;Extrordinary; ;; ;;
-XXXLutz ;Furniture; ;; ;;
-Hammer ;Furniture; ;; ;;
-Breuninger ;Superstore; ;; ;;
-Biomarkt ;Food; ;; ;;
-Dehner ;Animals; ;; ;;
-Euronics XXL ;Electronics; ;; ;;
-NKD ;Food; ;; ;;
-Zara ;Clothing; ;; ;;
-Möbel Kraft ;Furniture; ;; ;;
-Möbel Martin ;Furniture; ;; ;;
-Primark ;Clothing; ;; ;;
-Apollo-Optik;Glasses;; ;; ;
-s.Oliver ;Clothing; ;; ;;
-Reno ;Shoes; ;; ;;
-Tedi ;Extrordinary; ;; ;;
-Adler ;Clothing; ;; ;;
-Budnikowsky ;Cosmetics; ;; ;;
-Reformhaus ;Food; ;; ;;
-Christ ;Jewelry; ;; ;;
-TK Maxx ;Food; ;; ;;
-Esprit ;Clothing; ;; ;;
-tedox ;Tools; ;; ;;
-XXXL Mann Mobilia ;Furniture; ;; ;;
-Schaffrath Wohnkaufhäuser ;Furniture; ;; ;;
+Kategorien
+Animals
+Baby
+Books
+Bycicles
+Clothing
+Cosmetics
+Electronics
+Extrordinary
+Food
+Furniture
+Glasses
+Jewelry
+Shoes
+Sport
+Superstore
+Tools
+Toos
+Toys
