@@ -1,0 +1,14 @@
+
+How to Use ShopAdmin
+Step1
+Step2
+After your successful registration, you will land to a main page of ShopAdmin. You will see an empty Table, which will later contain a list of receipts that you have scanned with your Camera. This list will allow you to know the latest 20 scanned Receipt in different Shops.
+•	You can tap (click)on Button “SCAN”  at the bottom to scan a receipt
+•	You can tap (click)  (Menuzeichen) in the top right corner and chose
+1.	“Help” to get information how to make a right photo of a receipt
+2.	“Exit” to leave (to close) an application
+3.	“Logout” to land to the login page
+•	You can tap on a Table and you will land to a next page with all Reports sorted by shopname
+Step 3 Reports page
+After you tapped on a table in a main page 
+
